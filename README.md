@@ -6,6 +6,7 @@
 - size 環狀佇列長度
 - front 環狀佇列最前面元素的指針
 - rear 環狀佇列最後面元素的指針
+- queue 取得環狀佇列本體
 
 ## Methods (public)
 - enqueue(value: int) 將資料放入環狀佇列
